@@ -3,7 +3,7 @@
 
 <h2> Hi, I'm Vilma! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>Software Enginner at <a href="http://www.unb.br"> UTN San Rafael, Mendoza, Argentina </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Estoy estudiando la Tecnicatura de Programacion en <a href="http://www.unb.br"> UTN San Rafael, Mendoza, Argentina </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 
@@ -14,9 +14,9 @@
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript,  HTML, CSS,  Python, Java],
-  tools: [ Node, Docker],
+  pronouns: "she" | "her"
+  code: [Javascript,  HTML, CSS,  Python, Java, Git],
+  tools: [ Node, Docker, Mysql, Diango, Postman, Studio 3T, PostgreSQL],
   }
 ```
 
